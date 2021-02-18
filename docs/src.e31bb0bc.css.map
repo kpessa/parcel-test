@@ -1,0 +1,1 @@
+{"version":3,"sources":["css\\main.scss"],"names":[],"mappings":"AAEA;EACE,YAHI","file":"src.e31bb0bc.css","sourceRoot":"..\\src","sourcesContent":["$sup: lightgrey;\r\n\r\nbody {\r\n  background: $sup;\r\n}"]}
